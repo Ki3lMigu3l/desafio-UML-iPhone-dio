@@ -45,7 +45,7 @@ classDiagram
     }
 
     iPhone ..> ReprodutorMusical : usa
-    iPhone ..> AparelhoTelefonico : usa
-    iPhone ..> NavegadorNaInternet : usa
+    iPhone ..> Telefonico : usa
+    iPhone ..> NavegadorInternet : usa
 
 ```
